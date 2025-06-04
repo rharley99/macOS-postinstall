@@ -6,6 +6,7 @@ CASKS=(
     keka
     kekaexternalhelper
     onyx
+    arc
 )
 
 echo "Installing apps from the web..."

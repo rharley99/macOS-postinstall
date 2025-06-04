@@ -8,9 +8,7 @@ CASKS=(
     onyx
     appcleaner
     grandperspective
-    microsoft-edge
-    microsoft-teams
-    microsoft-defender
+    setapp
 )
 
 echo "Installing apps from the web..."

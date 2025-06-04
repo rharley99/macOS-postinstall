@@ -7,23 +7,20 @@ CASKS=(
     keka
     kekaexternalhelper
     arc
-    #microsoft-edge
     #makemkv
+    orion
     onyx
-    unpkg
-    appcleaner
     grandperspective
     balenaetcher
-    visual-studio-code-insiders
+    cursor
     github
     font-sf-pro
     font-sf-compact
     font-sf-mono
     font-new-york
     sf-symbols
-    microsoft-teams
     balenaetcher
-    vnc-viewer
+    zen
 )
 
 echo "Installing apps from the web..."
@@ -39,11 +36,11 @@ mas signin $APPLEID
 # install macos apps
 APPS=(
     1440147259 # Adguard - Safari
-    1024974133 # Mountain Duck
+    # 1024974133 # Mountain Duck
     409183694 # Keynote
     409201541 # Pages
     409203825 # Numbers
-    1437809329 # Surfshark
+    # 1437809329 # Surfshark
     985367838 # Microsoft Outlook
     462058435 # Microsoft Excel
     462054704 # Microsoft Word

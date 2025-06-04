@@ -7,7 +7,7 @@ CASKS=(
     kekaexternalhelper
     onyx
     grandperspective
-    microsoft-defender
+    firefox
 )
 
 echo "Installing apps from the web..."

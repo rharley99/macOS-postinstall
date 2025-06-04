@@ -10,6 +10,7 @@ CASKS=(
     onyx
     grandperspective
     wacom-tablet
+    setapp
 )
 
 echo "Installing apps from the web..."
